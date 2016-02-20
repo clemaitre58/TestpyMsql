@@ -1,6 +1,6 @@
 import MySQLdb
 
-db = MySQLdb.connect("glapeira.freeboxos.fr", "cedric", "cedb002", "elevage")        # name of the data base
+db = MySQLdb.connect("xxxxxxx.freeboxos.fr", "xxxxx", "xxxx", "elevage")        # name of the data base
 
 # you must create a Cursor object. It will let
 #  you execute all the queries you need
